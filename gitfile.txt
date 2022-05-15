@@ -2,5 +2,17 @@ git Test file
 git is good
 git is new
 git is nice
+<<<<<<< HEAD
 git fe pa me now
 this git sef
+=======
+git ma pa mi now
+git I'm feeling you
+git welldone
+git git
+git I greet you
+git you be man
+git how far now
+git paddy mi
+git come and stay
+>>>>>>> slave
