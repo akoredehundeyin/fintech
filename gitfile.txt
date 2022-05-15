@@ -2,3 +2,4 @@ git Test file
 git is good
 git is new
 git is nice
+git ma pa mi now
