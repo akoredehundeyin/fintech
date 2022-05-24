@@ -11,3 +11,6 @@ git again
 git live
 git remote
 git fire
+git water
+git cool
+git down
